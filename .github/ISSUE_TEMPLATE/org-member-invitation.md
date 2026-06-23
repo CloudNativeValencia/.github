@@ -1,11 +1,11 @@
 ---
 name: Invite new org member
-description: Request to invite a new member to the CloudNativeValencia organization
+about: This template should be used to onboard new users to the Cloud Native Valencia
+  org.
 title: "[Invite] <GitHub username>"
-labels: ["help wanted", "member invitation"]
-assignees:
-  - jlassery
-  - levenhagen
+labels: help wanted
+assignees: chadmcrowell, jlassery, levenhagen
+
 ---
 
 ## New member details
